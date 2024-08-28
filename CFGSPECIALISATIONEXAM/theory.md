@@ -67,4 +67,4 @@ been in the queue the longest is removed first.Practical operation examples
 can be enqueue operation which is adding  an element to a queue, and 
 retrieving one form a queue is called dequeue.(ref: realpython.com, chatgpt)
 
-![screenshot.png](..%2F..%2FPictures%2Fscreenshot.png)
+![Binary Tree](Untitled Diagram2.jpg)
